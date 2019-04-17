@@ -5,7 +5,7 @@ Operations includes procurement of parts, POS system, Staff identification, etc.
 
 ## Visuals
 
-<img src="CarPartsStoreUML.png"/>
+<img src="CarPartsStoreUML.png">
 
 ## Contributing
 
