@@ -1,4 +1,4 @@
-package za.ac.cput.group3B.domain.staff;
+package za.ac.cput.group3B.domain.Staff;
 
 public class Staff {
     private int staffId;

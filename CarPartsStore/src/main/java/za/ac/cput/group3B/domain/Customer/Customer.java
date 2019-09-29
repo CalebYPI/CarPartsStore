@@ -1,4 +1,4 @@
-package za.ac.cput.group3B.domain.customer;
+package za.ac.cput.group3B.domain.Customer;
 
 public class Customer {
 }

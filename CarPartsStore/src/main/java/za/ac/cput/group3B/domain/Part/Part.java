@@ -1,4 +1,4 @@
-package za.ac.cput.group3B.domain;
+package za.ac.cput.group3B.domain.Part;
 
 public class Part {
 }

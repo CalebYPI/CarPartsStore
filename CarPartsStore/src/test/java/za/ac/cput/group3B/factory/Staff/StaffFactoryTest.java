@@ -2,9 +2,7 @@ package za.ac.cput.group3B.factory.staff;
 
 import org.junit.Assert;
 import org.junit.Test;
-import za.ac.cput.group3B.domain.Staff;
-
-import static org.junit.Assert.*;
+import za.ac.cput.group3B.domain.Staff.Staff;
 
 public class StaffFactoryTest {
 
